@@ -5,6 +5,7 @@ Depends
 --------
 
 Depends on py2exe if binaries are to be created (windows/deployable release)
+
 Depends on pizco > 0.2
 
 
@@ -36,5 +37,5 @@ Features
 
 + installation of pizco scripts in a dir in environ (setup.py)
 
-+ environment variable configuration setup PZC_BEACON_PORT / PZC_NAMING_PORT / PZC_HIDE_TRACEBACK / PZC_SERIALIZER
++ environment variable configuration setup PZC_BEACON_PORT / PZC_NAMING_PORT / PZC_HIDE_TRACEBACK / PZC_SERIALIZER / PZC_UTILS_PATH
 
